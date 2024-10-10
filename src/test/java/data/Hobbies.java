@@ -14,8 +14,4 @@ public enum Hobbies {
     public String getHobbies() {
         return name;
     }
-
-    public static void main(String[] args) {
-        System.out.println(Hobbies.MUSIC.getHobbies());
-    }
 }
